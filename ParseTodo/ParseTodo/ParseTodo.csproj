@@ -151,13 +151,13 @@
     <Reference Include="Newtonsoft.Json">
       <HintPath>..\packages\Newtonsoft.Json.4.5.10\lib\winrt45\Newtonsoft.Json.dll</HintPath>
     </Reference>
-    <Reference Include="Parse, Version=0.9.2.0, Culture=neutral, PublicKeyToken=ba48c3a442de616e, processorArchitecture=MSIL">
+    <Reference Include="Parse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ba48c3a442de616e, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\parse.0.9.2\lib\netcore45\Parse.dll</HintPath>
+      <HintPath>..\packages\parse.1.0.0\lib\netcore45\Parse.dll</HintPath>
     </Reference>
-    <Reference Include="Parse.WinRT, Version=0.9.2.0, Culture=neutral, PublicKeyToken=ba48c3a442de616e, processorArchitecture=MSIL">
+    <Reference Include="Parse.WinRT, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ba48c3a442de616e, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\parse.0.9.2\lib\netcore45\Parse.WinRT.dll</HintPath>
+      <HintPath>..\packages\parse.1.0.0\lib\netcore45\Parse.WinRT.dll</HintPath>
     </Reference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0' ">
