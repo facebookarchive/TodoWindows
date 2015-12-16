@@ -1,5 +1,7 @@
-Windows Todo
+[Archive] Windows Todo
 ============
+
+**Note:** *This repository is not under active development.*
 
 This is a sample application that showcases the Parse Windows SDK.  It contains a Visual Studio C# Solution that shows how easy it is to get started creating and storing data using Parse as your backend.
 
